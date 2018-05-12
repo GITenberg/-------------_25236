@@ -1,0 +1,29 @@
+_repo: '-------------_25236'
+_version: 0.1.0
+alternative_title:
+- 筠州黄蘗山斷際禪師傳心法要
+- Yunzhou Huangbo shan Duanji chan shi chuan xin fa yao
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huangbo
+    alias: 黃檗
+    deathdate: 850
+    gutenberg_agent_id: '31171'
+    url: http://www.gutenberg.org/2009/agents/31171
+description: ''
+gutenberg_issued: '2008-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25236'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Zen Buddhism'
+title: 筠州黃檗山斷際禪師傳法心要
+url: http://www.gutenberg.org/ebooks/25236
